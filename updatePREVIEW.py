@@ -62,8 +62,8 @@ def find_images_and_generate_markdown(root_path):
                 preview_file.write("# Image Previews\n\n")
 
                 for image_file in image_files:
-                    # Get relative path for markdown
-                    relative_path = os.path.relpath(os.path.join(current_dir, image_file), root_path)
+                    # Get relative path for markdown (relative to the current directory)
+                    relative_path = os.path.relpath(os.path.join(current_dir, image_file), current_dir)
                     preview_file.write(f"![{image_file}]({relative_path})\n\n")
 
             print(f"Generated PREVIEW.md in: {current_dir}")

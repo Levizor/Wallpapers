@@ -1,22 +1,22 @@
 # Image Previews
 
-![laingray.jpg](lain/laingray.jpg)
+![laingray.jpg](laingray.jpg)
 
-![purplelain.jpg](lain/purplelain.jpg)
+![purplelain.jpg](purplelain.jpg)
 
-![lainright.jpg](lain/lainright.jpg)
+![lainright.jpg](lainright.jpg)
 
-![lainhatright.jpg](lain/lainhatright.jpg)
+![lainhatright.jpg](lainhatright.jpg)
 
-![lainspace.jpg](lain/lainspace.jpg)
+![lainspace.jpg](lainspace.jpg)
 
-![lainspider.jpg](lain/lainspider.jpg)
+![lainspider.jpg](lainspider.jpg)
 
-![whitelainright.jpg](lain/whitelainright.jpg)
+![whitelainright.jpg](whitelainright.jpg)
 
-![lain_in_the_dark.jpg](lain/lain_in_the_dark.jpg)
+![lain_in_the_dark.jpg](lain_in_the_dark.jpg)
 
-![lainblackright.jpg](lain/lainblackright.jpg)
+![lainblackright.jpg](lainblackright.jpg)
 
-![lainpurpleright.jpg](lain/lainpurpleright.jpg)
+![lainpurpleright.jpg](lainpurpleright.jpg)
 
