@@ -29,5 +29,8 @@
     {
       # The primary output, providing access to individual wallpaper packs
       inherit wallpapers;
+
+      # Home Manager module for configuring wpaperd with the selected wallpaper packs
+      homeManagerModules.default = import ./hm-module.nix { inherit wallpapers; };
     };
 }
